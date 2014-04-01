@@ -77,7 +77,6 @@ class MarsRover
 	my_rover.move("LMLMLMLMM")
 	my_rover.where_am_i
 
-
 	my_rover2 = MarsRover.new(3,3,$E)
 
 	my_rover2.where_am_i
